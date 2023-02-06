@@ -1,7 +1,4 @@
-# Pap Alexandre
 # Pruvost Alban
-# BUT2 TD1 TPA
-# SAE C2
 # Logiciel FitsStacker
 
 
